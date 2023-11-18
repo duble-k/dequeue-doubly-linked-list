@@ -1,2 +1,5 @@
-# dequeue-doubly-linked-list
-A dequeue using a doubly linked list in c++
+# Dequeue build
+
+Run "make"
+
+Reference driver code to see what commands may be used
